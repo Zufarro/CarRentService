@@ -1,4 +1,4 @@
-from module2 import CarRentService, Car, RentCar, Client
+from module1 import CarRentService, Car, RentCar, Client
 
 my_rent_service = CarRentService()
 
